@@ -1,0 +1,72 @@
+{
+  "id": "2620299",
+  "name": "智能网路规划",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18419895",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18454962",
+      "name": "定位",
+      "font_class": "dingwei1",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "17810454",
+      "name": "icon_对勾中",
+      "font_class": "icon_duigouzhong",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "17859141",
+      "name": "单选_选中@1x",
+      "font_class": "danxuan_xuanzhong1x",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19109292",
+      "name": "单选框-选中",
+      "font_class": "danxuankuang-xuanzhong",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "1053844",
+      "name": "单选框-选中",
+      "font_class": "webicon19",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "1546562",
+      "name": "单选-已选",
+      "font_class": "danxuan-yixuan",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "18445347",
+      "name": "实心圆",
+      "font_class": "shixinyuan",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "12897853",
+      "name": "排序",
+      "font_class": "paixu-",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
